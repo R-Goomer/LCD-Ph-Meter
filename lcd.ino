@@ -20,9 +20,9 @@ void setup() {
   // set up the LCD's number of columns and rows:
   lcd.begin(16, 2);
   lcd.setCursor(5,0);
-  lcd.print("Ambtek");
+  lcd.print("Rushil");
   lcd.setCursor(3,1);
-  lcd.print("Innovation");
+  lcd.print("Goomer");
   delay(2000);
   lcd.clear();
   lcd.setCursor(3,0);
